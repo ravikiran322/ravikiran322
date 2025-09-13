@@ -3,7 +3,9 @@
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ravi-kiran-c-4b55ab354/" target="_blank" rel="noreferrer">Ravii</a> is a passionate Software Engineer from India,Feel free to reach out for any Freelance Projects.</font></h3>
 
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikiran322&label=Profile%20views&color=0e75b6&style=flat" alt="ravikiran322" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikiran322" alt="ravikiran322" /></a> </p>
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
@@ -34,17 +36,8 @@
 #### Editor / IDE I ♥
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left">
-</p>
 
-- 💬 Ask me about **full stack**
-- 📫 How to reach me **[ravikiran14444@gmail.com]**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikiran322&label=Profile%20views&color=0e75b6&style=flat" alt="ravikiran322" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikiran322" alt="ravikiran322" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
