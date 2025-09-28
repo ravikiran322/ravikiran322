@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Ravikiran  </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ravi-kiran-c-4b55ab354/" target="_blank" rel="noreferrer">Ravii</a> is a passionate Software Engineer from India,Feel free to reach out for any Freelance Projects.</font></h3>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Ravikiran C </font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ravi-kiran-c-4b55ab354/" target="_blank" rel="noreferrer">Ravikiran</a> is a passionate Software Engineer from India,Feel free to reach out for any Freelance Projects.</font></h3>
 
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikiran322&label=Profile%20views&color=0e75b6&style=flat" alt="ravikiran322" /> </p>
